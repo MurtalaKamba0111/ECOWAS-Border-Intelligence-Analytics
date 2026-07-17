@@ -20,7 +20,11 @@ The project demonstrates the application of Data Analytics, Business Intelligenc
 - ℹ️ About Page
 
 ---
+## Dashboard Preview
 
+### Executive Dashboard
+
+![Executive Dashboard](images/executive_dashboard.png) 
 ## Technologies Used
 
 - Python
@@ -89,11 +93,10 @@ streamlit run app.py
 **Dr. Ahmed Murtala Kamba**
 
 - PhD Physics (Spectroscopy)
-- Msc Physics (Nuclear & Radiation)
-- Border Security
+- MSc Physics (Nuclear & Radiation)
+- Planning, Research & Statistics
+- Border Security"
 - Data Analytics | Business Intelligence | Artificial Intelligence | Project Management
-
----
 
 ## License
 
