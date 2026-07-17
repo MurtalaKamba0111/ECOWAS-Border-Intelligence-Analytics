@@ -89,9 +89,9 @@ streamlit run app.py
 **Dr. Ahmed Murtala Kamba**
 
 - PhD Physics (Spectroscopy)
-- Nigerian Immigration Service
-- Planning, Research & Statistics
-- Data Analytics | Business Intelligence | Artificial Intelligence
+- Msc Physics (Nuclear & Radiation)
+- Border Security
+- Data Analytics | Business Intelligence | Artificial Intelligence | Project Management
 
 ---
 
